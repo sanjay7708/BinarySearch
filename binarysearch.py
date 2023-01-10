@@ -16,5 +16,5 @@ if __name__=="__main__":
 	print(array)
 	n=int(input("Which Element Do Yo Want Search?:"))
 	result=Binary(array,start,end,n)
-	print("the element",n,"indext is:",result)
+	print("the element",n,"index is:",result)
 	
